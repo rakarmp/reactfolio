@@ -1,7 +1,7 @@
 # reactfolio, personal portfolio website in react
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
+![screenshot](https://user-images.githubusercontent.com/83684256/228511128-622f8286-5538-4d4f-b87f-61c6e5424054.png)
 
 ## Available Scripts
 
